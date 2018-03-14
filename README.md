@@ -9,10 +9,13 @@ The src/fr/eseo/aof/example/classdiagram/UML2FX.xtend file contains an implement
 The latter is executable by importing the whole repository contents as an Eclipse project.
 Once all required dependencies have been installed (basically latest versions of xtend & UML), the Main class can be executed as a Java application.
 
-Finally, a video demo of a similar project is available on YouTube: https://www.youtube.com/watch?v=eo_-yCi-zyU
-The two main differences between the video and this project are the following.
-Firstly, instead of a simplified class diagram the video show a graph with nodes and edges.
-Secondly, the demo from the video has some interactors that enable users to modify the source model, thus updating the view.
+A video demo of this class diagram example is available on YouTube: https://www.youtube.com/watch?v=6EEQadNmsjQ
+
+
+Videos of other projects based on our approach are also available:
+- A sequence diagram demo: https://www.youtube.com/watch?v=mmZyETDKnFk
+- A graph & edge demo: https://www.youtube.com/watch?v=eo_-yCi-zyU
+The graph & edge demo uses some interactors to enable users to modify the source model, thus updating the view.
 
 
 This project uses Cassowary-java for constraint optimization.
